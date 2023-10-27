@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-e-caballero, an experienced Site Reliablity Engineer / Sr Systems Architech Engineer.
+e-caballero, an experienced Site Reliablity Engineer / Sr Systems Engineer / Cloud Architech.
 
 ## 🛠 Skills
 
