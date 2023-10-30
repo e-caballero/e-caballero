@@ -46,7 +46,7 @@ e-caballero, an experienced Site Reliablity Engineer / Sr Systems Engineer / Clo
 |  |  |  |
 |:---------:|:---------:|:---------:|
 | <img src="https://codeninja.eu/wp-content/uploads/2013/10/windows-server_icon-100-400x400.png" width="50" height="50"/> Windows Server | <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> Ubuntu | <img src="https://img.icons8.com/fluent/48/000000/mac-os.png"/> OSX |
-| <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> Red Hat Enterprise | | |
+| <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> Red Hat Enterprise | <img src="https://icons8.com/icon/24671/vmware"/> vmWare|<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/11/hyperv.jpg" width="50" height="50"/> Hyperv/AzureStack |
 
 ### Security Tools
 |  |  |  |
