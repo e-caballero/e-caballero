@@ -30,23 +30,23 @@ e-caballero, an experienced Site Reliablity Engineer / Sr Systems Engineer / Clo
 |  |  |  |
 |:---------:|:---------:|:---------:|
 | <img src="https://img.icons8.com/color/48/000000/terraform.png"/> Terraform | <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> Azure | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS |
-| <img src="https://img.icons8.com/color/48/000000/github.png"/> GitHub | <img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker | |
+| <img src="https://img.icons8.com/color/48/000000/github.png"/> GitHub | <img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker | <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> Kubernetes |
 
 ### DevOps & Collaboration
 |  |  |  |
 |:---------:|:---------:|:---------:|
-| <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> Kubernetes | <img src="https://img.icons8.com/color/48/000000/git.png"/> Git | <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> GitLab |
+| <img src="https://zeevector.com/wp-content/uploads/Microsoft-Azure-DevOps-logo.png" width="100" height="50"/> | <img src="https://img.icons8.com/color/48/000000/git.png"/> Git | <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> GitLab | 
 
 ### Databases & Messaging
-|  |  |  |
-|:---------:|:---------:|:---------:|
-| <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> ms SQL | <img src="https://img.icons8.com/color/48/000000/redis.png"/> Redis | <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> Azure EventHubs |
+|  |  |  |  |
+|:---------:|:---------:|:---------:|:---------:|
+| <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> ms SQL | <img src="https://img.icons8.com/color/48/000000/redis.png"/> Redis | <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> Azure EventHubs | <img width="100" height="100" src="https://img.icons8.com/color/100/000000/mysql-logo.png" alt="mysql-logo"/>
 
 ### Operating Systems
 |  |  |  |
 |:---------:|:---------:|:---------:|
 | <img src="https://codeninja.eu/wp-content/uploads/2013/10/windows-server_icon-100-400x400.png" width="50" height="50"/> Windows Server | <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> Ubuntu | <img src="https://img.icons8.com/fluent/48/000000/mac-os.png"/> OSX |
-| <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> Red Hat Enterprise | <img src="https://icons8.com/icon/24671/vmware"/> vmWare|<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/11/hyperv.jpg" width="50" height="50"/> Hyperv/AzureStack |
+| <img src="https://img.icons8.com/color/48/000000/red-hat.png"/> <br> Red Hat Enterprise | <img width="50" height="50" src="https://img.icons8.com/color/ios/50/000000/vmware.png" alt="vmware"/> <br> vmware | <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/11/hyperv.jpg" width="125" height="75"/> |
 
 ### Security Tools
 |  |  |  |
